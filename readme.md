@@ -1,4 +1,2 @@
-#Welcome to git
-
-This is coming from felix-dev
+#hello git
 i'm adding this from the newFeature Branch
