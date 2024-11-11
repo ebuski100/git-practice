@@ -1,4 +1,4 @@
-#hey EveryOne, welcome to my Git Guide
+#welcome to my git guide
 
-Yo! Felix here
+remember practice makes perfect
 i'm adding this from the newFeature Branch
